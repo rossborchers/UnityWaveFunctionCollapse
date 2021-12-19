@@ -1,4 +1,13 @@
 # WaveFunctionCollapse
+
+Modified from [mxgmn/WaveFunctionCollapse](mxgmn/WaveFunctionCollapse) to make compatible with Unity.
+
+This repo has minimal changes from the original version and still used images. 
+
+For a version with in editor tools that uses game objects look at https://github.com/selfsame/unity-wave-function-collapse/ It may well be a better fit for your use case. 
+
+## Original Text
+
 This program generates bitmaps that are locally similar to the input bitmap.
 <p align="center"><img alt="main collage" src="images/wfc.png"></p>
 <p align="center"><img alt="main gif" src="images/wfc.gif"></p>
